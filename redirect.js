@@ -1,5 +1,5 @@
- var url = "https://jagoankode.blogspot.com/"; // url tujuan
-            var count = 1; // dalam detik
+  var url = "http://www.healthyfree.xyz/2020/02/6-warning-signs-that-indicate-your.html"; // url tujuan
+            var count = 4; // dalam detik
             function countDown() {
                 if (count > 0) {
                     count--;
