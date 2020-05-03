@@ -1,5 +1,5 @@
  var url = "https://jagoankode.blogspot.com/"; // url tujuan
-            var count = 10; // dalam detik
+            var count = 1; // dalam detik
             function countDown() {
                 if (count > 0) {
                     count--;
